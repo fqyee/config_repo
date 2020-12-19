@@ -1,0 +1,4 @@
+loanConfig:
+  -
+    loanCode: GH1020
+    loanDesc: GH1020Desc
